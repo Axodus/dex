@@ -136,15 +136,7 @@
       "name": "Elk Finance",
       "symbol": "ELK",
       "decimals": 18,
-      "logoURI": "https://github.com/elkfinance/brand-assets/raw/main/Logo/elk-logo-compact.png"
-    },   
-    {
-      "address": "0x5eE41aB6edd38cDfB9f6B4e6Cf7F75c87E170d98",
-      "chainId": 128,
-      "name": "True USD",
-      "symbol": "TUSD",
-      "decimals": 18
-      
+      "logoURI": "https://github.com/elkfinance/brand-assets/raw/main/Logo/elk-logo-compact.png"      
     },
   ]
 }
