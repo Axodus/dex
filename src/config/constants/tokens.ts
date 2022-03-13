@@ -65,15 +65,6 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://makiswap.com/',
   },
-  layer: {
-    symbol: 'LAYER',
-    address: {
-      256: '',
-      128: '0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c',
-    },
-    decimals: 18,
-    projectLink: 'https://unilayer.app/',
-  },
   ada: {
     symbol: 'ADA',
     address: {
@@ -82,6 +73,40 @@ const tokens = {
     },
     decimals: 18,
   },
+  dai: {
+    symbol: 'DAI',
+    address: {
+      256: '',
+      128: '0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a',
+    },
+    decimals: 18,
+  },
+  tusd: {
+    symbol: 'TUSD',
+    address: {
+      256: '', //
+      128: '0x5eE41aB6edd38cDfB9f6B4e6Cf7F75c87E170d98',
+    },
+    decimals: 18,
+  },
+  elk: {
+    symbol: 'ELK',
+    address: {
+      256: '', //
+      128: '0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C',
+    },
+    decimals: 18,
+  },
+ /* layer: {
+    symbol: 'LAYER',
+    address: {
+      256: '',
+      128: '0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c',
+    },
+    decimals: 18,
+    projectLink: 'https://unilayer.app/',
+  },
+  
   aeth: {
     symbol: 'AETH',
     address: {
@@ -138,14 +163,7 @@ const tokens = {
     },
     decimals: 18,
   },
-  dai: {
-    symbol: 'DAI',
-    address: {
-      256: '',
-      128: '0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a',
-    },
-    decimals: 18,
-  },
+  
   ltc: {
     symbol: 'LTC',
     address: {
@@ -178,14 +196,7 @@ const tokens = {
     },
     decimals: 18,
   },
-  elk: {
-    symbol: 'ELK',
-    address: {
-      256: '', //
-      128: '0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C',
-    },
-    decimals: 18,
-  },
+  
   ach: {
     symbol: 'ACH',
     address: {
@@ -194,14 +205,7 @@ const tokens = {
     },
     decimals: 8,
   },
-  tusd: {
-    symbol: 'TUSD',
-    address: {
-      256: '', //
-      128: '0x5eE41aB6edd38cDfB9f6B4e6Cf7F75c87E170d98',
-    },
-    decimals: 18,
-  },
+  
   ptd: {
     symbol: 'PTD',
     address: {
@@ -242,6 +246,6 @@ const tokens = {
   //   },
   //   decimals: 18,
   // },
-}
+} */
 
 export default tokens
