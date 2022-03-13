@@ -9,7 +9,7 @@ import { useSelector } from 'react-redux'
 import { useAppDispatch } from 'state'
 import { fetchFarmsPublicDataAsync, fetchFarmUserDataAsync, nonArchivedFarms } from '.'
 import { DeserializedFarm, DeserializedFarmsState, DeserializedFarmUserData, State } from '../types'
-import {
+/*import {
   farmSelector,
   farmFromLpSymbolSelector,
   priceCakeFromPidSelector,
@@ -17,7 +17,7 @@ import {
   makeUserFarmFromPidSelector,
   makeLpTokenPriceFromLpSymbolSelector,
   makeFarmFromPidSelector,
-} from './selectors'
+} from './selectors' */
 
 export const usePollFarmsWithUserData = (includeArchive = false) => {
   const dispatch = useAppDispatch()
