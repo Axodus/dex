@@ -13,7 +13,7 @@ import {
   getPancakeRabbitsAddress,
   getBunnyFactoryAddress,
   getBunnySpecialAddress,
-  getLotteryV2Address,
+  //getLotteryV2Address,
   getMasterChefAddress,
   getPointCenterIfoAddress,
   getClaimRefundAddress,
